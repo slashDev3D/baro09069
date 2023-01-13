@@ -1,0 +1,46 @@
+.navbar>.container {
+  
+    width: 1400px !important;
+}
+.navbar, .navbar a, .label, .footer .footer-menu a, .media-footer a, .hestia-top-bar {
+    font-size: 16px;
+}
+
+footer.footer.footer-black {
+    background: #323437;
+    display: none;
+}
+
+.kboard-pure-gallery-poweredby {
+
+    display: none;
+}
+
+#kboard-ask-one-list .kboard-list-header .kboard-left {
+
+    display: none;
+}
+.kboard-ask-one-poweredby {
+
+    display: none;
+}
+a.kboard-ask-one-button-small, input.kboard-ask-one-button-small, button.kboard-ask-one-button-small {
+  
+    background: #2d2b26 !important;
+
+}
+
+a.kboard-ask-one-button-search, input.kboard-ask-one-button-search, button.kboard-ask-one-button-search {
+  
+    background: #2d2b26 !important;
+    
+}
+
+.kboard-default-poweredby {
+
+    display: none;
+}
+
+a, .navbar .dropdown-menu li:hover > a, .navbar .dropdown-menu li:focus > a, .navbar .dropdown-menu li:active > a, .navbar .navbar-nav > li .dropdown-menu li:hover > a, body:not(.home) .navbar-default .navbar-nav > .active:not(.btn) > a, body:not(.home) .navbar-default .navbar-nav > .active:not(.btn) > a:hover, body:not(.home) .navbar-default .navbar-nav > .active:not(.btn) > a:focus, a:hover, .card-blog a.moretag:hover, .card-blog a.more-link:hover, .widget a:hover, .has-text-color.has-accent-color, p.has-text-color a {
+    color: #4b4945;
+}
